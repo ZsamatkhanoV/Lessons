@@ -15,5 +15,6 @@ public class Ziyat_Samatkhanov_4_1 {
             }
         }
         System.out.println("Максимальное значение " + maxNumber);
+        Systen.out.println("Все отлично ");
     }
 }
